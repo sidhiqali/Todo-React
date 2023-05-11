@@ -48,7 +48,6 @@ function App() {
         return index === mapindex;
       }),
     ]);
-    console.log(comptdToDo);
   };
 
   return (
